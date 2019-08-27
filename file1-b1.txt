@@ -1,8 +1,4 @@
 new file
 new line
 new line after adding into stage
-<<<<<<< HEAD
 adding conflict line
-=======
-adding 4th line
->>>>>>> 23d0ff2431284134636803ff707a8eef9abdefa7
